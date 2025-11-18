@@ -1,7 +1,5 @@
 # Showtime - A Modern Movie Showtime App
 
-<img src="assets/screenshots/now_in_theaters.png" width="32%" /> <img src="assets/screenshots/showtimes.png" width="32%" /> <img src="assets/screenshots/event_details.png" width="32%" />
-
 ## What is Showtime?
 
 Showtime is a _multiplatform_ Dart app for browsing movies and showtimes for cinemas.
