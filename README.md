@@ -7,7 +7,6 @@
 Showtime is a _multiplatform_ Dart app for browsing movies and showtimes for cinemas.
 
 Showtime showcases Redux, has an extensive set of automated tests and **40% code sharing between Flutter and web**.
-The Android & iOS apps are made with a single [Flutter](http://flutter.io) codebase. The progressive web app is made with [AngularDart](https://webdev.dartlang.org/angular).
 This project serves as a great example of a multiplatform Dart project.
 
 ## Features
@@ -41,7 +40,6 @@ Finally, if you haven't already, [install Flutter](https://flutter.io/docs/get-s
 And the Flutter plugin for your IDE. 
 At the time of being, inKino is built with **Flutter 1.0**.
 
-If you don't like IDEs, [you can apparently use Emacs or Vim too](https://news.ycombinator.com/item?id=16822780).
 
 ## Building the project
 
@@ -72,9 +70,3 @@ First, ensure that you followed the "Development environment setup" section abov
 Contributions are welcome! 
 However, if it's going to be a major change, please create an issue first. 
 Before starting to work on something, please comment on a specific issue and say you'd like to work on it.
-
-## Thanks
-
-Special thanks to [Olli Haataja](https://www.linkedin.com/in/olli-haataja-46b96b120/) for the design. 
-
-Additional thanks for the initial release go to [Thibaud Colas](https://twitter.com/thibaud_colas), [Brian Egan](https://twitter.com/brianegan), [Alessandro Aime](https://twitter.com/aimealessandro) and [Juho Rautioaho](https://github.com/Jraut) for giving their extra pair of eyes for reviewing the source code.
