@@ -17,11 +17,6 @@ This project serves as a great example of a multiplatform Dart project.
 
 There's three different folders. Each of them is a Dart project.
 
-* **core**: contains the pure Dart business logic, such API communication, Redux, XML parsing, sanitization, i18n, models and utilities. 
-It also has a great test coverage.
-* **mobile**: this is the Flutter project. It imports **core**, and it's a 100% shared codebase for the native Android & iOS apps that go on app stores.
-* **web**: the AngularDart progressive web app. Also imports **core**, and it's the thing that is live at https://inkino.app.
-
 To work on these projects, open each one of them in an editor of your choice. 
 
 For example, if you want to do a new feature and you do it for the Flutter project first, you'd open both **core** and **mobile** in separate editor windows.
